@@ -22,5 +22,21 @@
     "location": "United States",
     "founded": 1984,
     "mission": "To end shelter killing and Save Them All. The Best Friends Animal Society has the ambitious goal of ending shelter killing and finding home for all the abandoned animals in America. Every year over 4 million homeless pets are killed in American shelters, and Best Friends works to prevent this as much as possible by helping to make animal adoption easier and promoting spaying & neutering programs to reduce the number of animals entering the nation’s shelters."
+  },
+  {
+    "name": "SPCA of Wake County",
+    "website": "https://spcawake.org/",
+    "logo": "https://spcawake.org/wp-content/uploads/2019/06/swcnc-logo.png",
+    "location": "United States",
+    "founded": 1967,
+    "mission": "To transform the lives of pets and people through protection, care, education, and adoption. Our vision is to create a humane community."
+  },
+  {
+    "name": "Bald Is Beautiful Dog Rescue",
+    "website": "www.baldisbeautifuldogrescue.org",
+    "logo": "https://sep.yimg.com/ty/cdn/yhst-172520439-2/charity-bald-is-beautiful.jpg",
+    "location": "Greenville, South Carolina",
+    "founded": 2010,
+    "mission": "Bald Is Beautiful Hairless and Small Breed Rescue, Inc. is a national 501c3 non-profit organization. We are an independent rescue whose members- all volunteers- have over 25 years of combined experience in the rescue and rehabilitation of dogs in need. Our members’ reasons for being in rescue are varied from being compassionate lifetime dog lovers to having bought that “cute little puppy in the window” only to have our hearts broken when they became ill from being born to sick mothers kept in deplorable conditions. Or when we sadly discovered that the “home raised” pups were, in reality, puppy mill puppies. Whatever brought us to BisB, we stay because we have seen our hard work and dedication pay off in changing the lives of so many deserving dogs."
   }
 ]
